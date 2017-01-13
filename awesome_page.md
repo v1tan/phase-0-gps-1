@@ -20,6 +20,7 @@
 ![Image](/phase-0-gps-1/Screen Shot 2017-01-12 at 5.25.07 PM.png)
 
 
+<<<<<<< HEAD
 here is the change!
 
 i'm making new changes!
